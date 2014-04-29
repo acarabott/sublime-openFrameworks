@@ -6,5 +6,5 @@ Just using this as a collection point for useful Sublime / oF things while I wor
 
 See also:
     
-    - https://github.com/carlcalderon/ofLang
-    - http://forum.openframeworks.cc/t/openframeworks-and-sublime-2/11118
+- https://github.com/carlcalderon/ofLang
+- http://forum.openframeworks.cc/t/openframeworks-and-sublime-2/11118
