@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+ofPush${1:Matrix}();
+
+$0
+
+ofPop${1:Matrix}();
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>push</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>
