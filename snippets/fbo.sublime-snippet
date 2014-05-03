@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+fbo.begin();
+
+$0
+
+fbo.end();
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fbob</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>
