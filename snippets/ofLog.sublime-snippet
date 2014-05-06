@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ofLog${1:Verbose}("${2:module}") << $0;
+ofLog${1:Verbose}("${2:${TM_FILENAME/(.*)[.](.*)/$1/g}}") << $0;
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>ofl</tabTrigger>
